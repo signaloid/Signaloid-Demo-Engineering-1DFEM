@@ -1,7 +1,7 @@
 /*
   Licensing: This code is distributed under the GNU LGPL license.
   Author: John Burkardt
-  Modified by: Chatura Samarakoon (2012)
+  Modified by: Chatura Samarakoon (2021)
   Modified by: Damien Zufferey (2022)
 */
 
