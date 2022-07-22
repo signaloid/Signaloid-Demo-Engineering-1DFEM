@@ -12,5 +12,5 @@ The code is a modified version of an implementation by John Burkardt.[^1]
 
 [^0]: Vasileios Tsoutsouras, Orestis Kaparounakis, Bilgesu Arif Bilgin, Chatura Samarakoon, James Timothy Meech, Jan Heck, Phillip Stanley-Marbell: The Laplace Microarchitecture for Tracking Data Uncertainty and Its Implementation in a RISC-V Processor. MICRO 2021: 1254-1269
 
-[^1]: John Burkardt: `fem1d_fixedCantilever_axialConstLoad.c` from https://people.sc.fsu.edu/~jburkardt/data/fem1d/fem1d.html
+[^1]: John Burkardt: `fem1d.c` from https://people.sc.fsu.edu/~jburkardt/data/fem1d/fem1d.html
 
