@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <uncertain.h>
+#include <uxhw.h>
 
 int main(void);
 void assemble(double diag_coeffs[], double left_coeffs[], double right_coeffs[], double f[],
@@ -137,7 +137,7 @@ P_function(double x)
 	// double E = (0.1e9); //16.6mm
 	// double E = (0.05e9); //33.33mm
 	// double E = (0.01e9); //166.6mm
-	double E = libUncertainDoubleUniformDist(0.01e9, 0.1e9);
+	double E = UxHwDoubleUniformDist(0.01e9, 0.1e9);
 	double A = (30.0e-6);
 	value = A * E;
 	return value;
